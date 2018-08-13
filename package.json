@@ -1,6 +1,6 @@
 {
   "name": "@yunwuxin/react-native-wechat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "react-native library for wechat app",
   "main": "index.js",
   "keywords": [
@@ -14,7 +14,7 @@
     "events": "1.0.2"
   },
   "peerDependencies": {
-    "react-native": ">=0.40"
+    "react-native": ">=0.56"
   },
   "license": "MIT"
 }
